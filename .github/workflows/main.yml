@@ -1,0 +1,13 @@
+name: sync to coding 
+on: push
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    steps:
+    - name: repo-sync
+      uses: wei/git-sync@v2
+      with:
+        source_repo: "https://${{ secrets.git_blog_user_token }}@github.com/lv4lv/lv4lv.github.io.git"
+        source_branch: "master"
+        destination_repo: "https://${{ secrets.coding_blog_user_token }}@e.coding.net/lv4lv/lv4lv/lv4lv.git"
+        destination_branch: "master"
