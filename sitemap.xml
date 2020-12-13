@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>https://diary.abel.red/post/%E9%87%8D%E8%AF%BB%E9%80%BB%E8%BE%91%E8%AE%BA%E6%9C%89%E6%84%9F/</loc>
+    <lastmod>2020-12-13T22:08:15+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://diary.abel.red/post/%E6%88%91%E6%94%B9%E5%8F%98/</loc>
     <lastmod>2020-08-03T14:43:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,7 +130,7 @@
   
   <url>
     <loc>https://diary.abel.red/</loc>
-    <lastmod>2020-08-03T14:43:01+08:00</lastmod>
+    <lastmod>2020-12-13T22:08:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -136,7 +143,7 @@
   
   <url>
     <loc>https://diary.abel.red/post/</loc>
-    <lastmod>2020-08-03T14:43:01+08:00</lastmod>
+    <lastmod>2020-12-13T22:08:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -150,6 +157,13 @@
   <url>
     <loc>https://diary.abel.red/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2020-04-06T08:28:32+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://diary.abel.red/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-12-13T22:08:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
