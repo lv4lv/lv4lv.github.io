@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Abel日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 02 Jan 2021 00:02:03 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jan 2021 00:10:41 +0800</lastBuildDate>
     
 	<atom:link href="https://diary.abel.red/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021.1.1总结</title>
+      <link>https://diary.abel.red/post/2021.1.1%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Sat, 02 Jan 2021 00:10:41 +0800</pubDate>
+      
+      <guid>https://diary.abel.red/post/2021.1.1%E6%80%BB%E7%BB%93/</guid>
+      <description>也没有总结过，也有点不太会总结 总体感觉还不错，当然也不可能是满分 最大的进步是真的决定了，真的去做了！ 状态各方面确实没有非常高，但是监控真的很</description>
+    </item>
     
     <item>
       <title>Typecho初体验</title>
