@@ -3,7 +3,7 @@
 
 *对生活的理解力，是幸福之门。*
 
-{{ < /admonition >}}
+{{< /admonition >}}
 
 <!--more-->
 
