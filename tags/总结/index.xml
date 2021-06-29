@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>总结 on Abel日记</title>
-    <link>https://diary.abel.red/tags/%E6%80%BB%E7%BB%93/</link>
+    <link>https://diary.abel.gg/tags/%E6%80%BB%E7%BB%93/</link>
     <description>Recent content in 总结 on Abel日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 02 Jan 2021 00:10:41 +0800</lastBuildDate>
     
-	<atom:link href="https://diary.abel.red/tags/%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diary.abel.gg/tags/%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2021.1.1总结</title>
-      <link>https://diary.abel.red/post/2021.1.1%E6%80%BB%E7%BB%93/</link>
+      <link>https://diary.abel.gg/post/2021.1.1%E6%80%BB%E7%BB%93/</link>
       <pubDate>Sat, 02 Jan 2021 00:10:41 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/2021.1.1%E6%80%BB%E7%BB%93/</guid>
+      <guid>https://diary.abel.gg/post/2021.1.1%E6%80%BB%E7%BB%93/</guid>
       <description>也没有总结过，也有点不太会总结 总体感觉还不错，当然也不可能是满分 最大的进步是真的决定了，真的去做了！ 状态各方面确实没有非常高，但是监控真的很</description>
     </item>
     
     <item>
       <title>Typecho初体验</title>
-      <link>https://diary.abel.red/post/typecho%E5%88%9D%E4%BD%93%E9%AA%8C/</link>
+      <link>https://diary.abel.gg/post/typecho%E5%88%9D%E4%BD%93%E9%AA%8C/</link>
       <pubDate>Sat, 02 Jan 2021 00:02:03 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/typecho%E5%88%9D%E4%BD%93%E9%AA%8C/</guid>
+      <guid>https://diary.abel.gg/post/typecho%E5%88%9D%E4%BD%93%E9%AA%8C/</guid>
       <description>Typecho 很简洁大方 发布和管理方便 不能即时预览 没有智能编辑功能 独特的优势：公开度选项，尤其有加密 独特的优势：极为容易更换主题，以及局部美化 独特的优势</description>
     </item>
     
     <item>
       <title>我·改变</title>
-      <link>https://diary.abel.red/post/%E6%88%91%E6%94%B9%E5%8F%98/</link>
+      <link>https://diary.abel.gg/post/%E6%88%91%E6%94%B9%E5%8F%98/</link>
       <pubDate>Tue, 21 Apr 2020 20:56:46 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/%E6%88%91%E6%94%B9%E5%8F%98/</guid>
+      <guid>https://diary.abel.gg/post/%E6%88%91%E6%94%B9%E5%8F%98/</guid>
       <description>&lt;p&gt;α2&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Shortcode短码总结</title>
-      <link>https://diary.abel.red/post/shortcode%E7%9F%AD%E7%A0%81%E6%80%BB%E7%BB%93/</link>
+      <link>https://diary.abel.gg/post/shortcode%E7%9F%AD%E7%A0%81%E6%80%BB%E7%BB%93/</link>
       <pubDate>Sun, 05 Apr 2020 23:52:58 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/shortcode%E7%9F%AD%E7%A0%81%E6%80%BB%E7%BB%93/</guid>
+      <guid>https://diary.abel.gg/post/shortcode%E7%9F%AD%E7%A0%81%E6%80%BB%E7%BB%93/</guid>
       <description>&lt;div class=&#34;admonition info&#34;&gt;&lt;p class=&#34;admonition-title&#34;&gt;摘要&lt;/p&gt;
   &lt;p&gt;早安喵！&lt;/p&gt;
 
@@ -52,55 +52,55 @@
     
     <item>
       <title>完美博客</title>
-      <link>https://diary.abel.red/post/%E5%AE%8C%E7%BE%8E%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://diary.abel.gg/post/%E5%AE%8C%E7%BE%8E%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Thu, 02 Apr 2020 11:40:03 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/%E5%AE%8C%E7%BE%8E%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://diary.abel.gg/post/%E5%AE%8C%E7%BE%8E%E5%8D%9A%E5%AE%A2/</guid>
       <description>一个完美的博客。 一个完美的博客都有那些要求呢？ 涵盖工作、学习、娱乐、生活； 风格简洁； 功能完整； 速度理想； 操作方便； 稳定长久； 一劳永逸； 易读易</description>
     </item>
     
     <item>
       <title>第一篇博客</title>
-      <link>https://diary.abel.red/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://diary.abel.gg/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Mon, 30 Mar 2020 20:39:29 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://diary.abel.gg/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
       <description>关于个人博客建站 建站的历程。 历程 从最开始的blogger； 到后来乱七八糟的免费wordpress； 再到新近觉得还不错但功能不完整的blogg</description>
     </item>
     
     <item>
       <title>关于Apple Watch</title>
-      <link>https://diary.abel.red/post/%E5%85%B3%E4%BA%8Eapple-watch/</link>
+      <link>https://diary.abel.gg/post/%E5%85%B3%E4%BA%8Eapple-watch/</link>
       <pubDate>Thu, 26 Mar 2020 10:50:45 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/%E5%85%B3%E4%BA%8Eapple-watch/</guid>
+      <guid>https://diary.abel.gg/post/%E5%85%B3%E4%BA%8Eapple-watch/</guid>
       <description>关于Apple watch：一直以来的缺憾和完美 Apple watch 功能 GTD系统 GTD系统，承接规划系统，从Trello出发，到Xmind，再到Omni，从</description>
     </item>
     
     <item>
       <title>GTD方案</title>
-      <link>https://diary.abel.red/post/gtd%E6%96%B9%E6%A1%88/</link>
+      <link>https://diary.abel.gg/post/gtd%E6%96%B9%E6%A1%88/</link>
       <pubDate>Thu, 26 Mar 2020 10:45:59 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/gtd%E6%96%B9%E6%A1%88/</guid>
+      <guid>https://diary.abel.gg/post/gtd%E6%96%B9%E6%A1%88/</guid>
       <description>日历方案 Calendars5 日历编辑模块无敌,跨平台同步未测试,提醒稳定性未测试 吸收任务友好度一般,不能转化提醒 非任务属性,不利于总结 系统日历 编辑性差,跨平台</description>
     </item>
     
     <item>
       <title>Typora</title>
-      <link>https://diary.abel.red/post/typora/</link>
+      <link>https://diary.abel.gg/post/typora/</link>
       <pubDate>Thu, 26 Mar 2020 10:44:35 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/typora/</guid>
+      <guid>https://diary.abel.gg/post/typora/</guid>
       <description>Typora对比幕布 项目 幕布 Typora 美观 🌟🌟🌟 🌟🌟🌟🌟🌟 效率 🌟🌟🌟🌟 🌟🌟🌟🌟🌟 管理 🌟🌟🌟🌟🌟 🌟🌟🌟🌟 思路 🌟🌟🌟🌟🌟 🌟🌟🌟🌟 总结 理性呈现 感性呈现 分析</description>
     </item>
     
     <item>
       <title>总结 20.0324</title>
-      <link>https://diary.abel.red/post/%E6%80%BB%E7%BB%93-20.3.24/</link>
+      <link>https://diary.abel.gg/post/%E6%80%BB%E7%BB%93-20.3.24/</link>
       <pubDate>Tue, 24 Mar 2020 10:42:53 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/%E6%80%BB%E7%BB%93-20.3.24/</guid>
+      <guid>https://diary.abel.gg/post/%E6%80%BB%E7%BB%93-20.3.24/</guid>
       <description>滴答统计 [x] 日常任务 [x] 清单清空 [x] 习惯清空 [x] 番茄统计 10个 印象笔记 任务进展 ==完成人力资源理论部分== 总结模板 Typora语法 精通</description>
     </item>
     

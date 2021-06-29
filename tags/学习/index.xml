@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学习 on Abel日记</title>
-    <link>https://diary.abel.red/tags/%E5%AD%A6%E4%B9%A0/</link>
+    <link>https://diary.abel.gg/tags/%E5%AD%A6%E4%B9%A0/</link>
     <description>Recent content in 学习 on Abel日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 13 Dec 2020 21:04:10 +0800</lastBuildDate>
     
-	<atom:link href="https://diary.abel.red/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diary.abel.gg/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>重读逻辑论有感</title>
-      <link>https://diary.abel.red/post/%E9%87%8D%E8%AF%BB%E9%80%BB%E8%BE%91%E8%AE%BA%E6%9C%89%E6%84%9F/</link>
+      <link>https://diary.abel.gg/post/%E9%87%8D%E8%AF%BB%E9%80%BB%E8%BE%91%E8%AE%BA%E6%9C%89%E6%84%9F/</link>
       <pubDate>Sun, 13 Dec 2020 21:04:10 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/%E9%87%8D%E8%AF%BB%E9%80%BB%E8%BE%91%E8%AE%BA%E6%9C%89%E6%84%9F/</guid>
+      <guid>https://diary.abel.gg/post/%E9%87%8D%E8%AF%BB%E9%80%BB%E8%BE%91%E8%AE%BA%E6%9C%89%E6%84%9F/</guid>
       <description>第一页：有存在就有不存在，讨论真实的东西才有意义； 第二页：也许我正为找不到路线而发愁，但不要忘了，路线从来不只是一条，你要做的不是找到那&amp;r</description>
     </item>
     

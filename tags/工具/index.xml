@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>工具 on Abel日记</title>
-    <link>https://diary.abel.red/tags/%E5%B7%A5%E5%85%B7/</link>
+    <link>https://diary.abel.gg/tags/%E5%B7%A5%E5%85%B7/</link>
     <description>Recent content in 工具 on Abel日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 02 Jan 2021 00:02:03 +0800</lastBuildDate>
     
-	<atom:link href="https://diary.abel.red/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diary.abel.gg/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Typecho初体验</title>
-      <link>https://diary.abel.red/post/typecho%E5%88%9D%E4%BD%93%E9%AA%8C/</link>
+      <link>https://diary.abel.gg/post/typecho%E5%88%9D%E4%BD%93%E9%AA%8C/</link>
       <pubDate>Sat, 02 Jan 2021 00:02:03 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/typecho%E5%88%9D%E4%BD%93%E9%AA%8C/</guid>
+      <guid>https://diary.abel.gg/post/typecho%E5%88%9D%E4%BD%93%E9%AA%8C/</guid>
       <description>Typecho 很简洁大方 发布和管理方便 不能即时预览 没有智能编辑功能 独特的优势：公开度选项，尤其有加密 独特的优势：极为容易更换主题，以及局部美化 独特的优势</description>
     </item>
     
     <item>
       <title>Markdown中文输入法</title>
-      <link>https://diary.abel.red/post/markdown%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/</link>
+      <link>https://diary.abel.gg/post/markdown%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/</link>
       <pubDate>Sat, 04 Apr 2020 09:23:30 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/markdown%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/</guid>
+      <guid>https://diary.abel.gg/post/markdown%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/</guid>
       <description>Markdown之下的中文输入法设置 主要是对搜狗输入法的自定义设置 自定义符号→修改中文半脚下的默认输出： ` # * [] &amp;lt;&amp;gt; 、 ， 。 &amp;quot;&amp;quot; &#39; （） ；_ 这样就兼</description>
     </item>
     
     <item>
       <title>Typora高级用法一则</title>
-      <link>https://diary.abel.red/post/typora%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</link>
+      <link>https://diary.abel.gg/post/typora%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</link>
       <pubDate>Sat, 04 Apr 2020 08:24:46 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/typora%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</guid>
+      <guid>https://diary.abel.gg/post/typora%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</guid>
       <description>Typora有个功能惊艳到我，那就是自动图床！ 虽然本来也没有打算换编辑器，但是对CMS还是有些好奇心的，但是这个功能实在是惊艳到我，让我打消</description>
     </item>
     
     <item>
       <title>Markdown语法分类</title>
-      <link>https://diary.abel.red/post/markdown%E8%AF%AD%E6%B3%95%E5%88%86%E7%B1%BB/</link>
+      <link>https://diary.abel.gg/post/markdown%E8%AF%AD%E6%B3%95%E5%88%86%E7%B1%BB/</link>
       <pubDate>Sat, 04 Apr 2020 07:41:24 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/markdown%E8%AF%AD%E6%B3%95%E5%88%86%E7%B1%BB/</guid>
+      <guid>https://diary.abel.gg/post/markdown%E8%AF%AD%E6%B3%95%E5%88%86%E7%B1%BB/</guid>
       <description>对MD语言的自己的理解。 Markdown我算是熟练了的，但是有的时候经常不知道要用什么形式来表达，形式掌握的太多了，往往迷失所踪 。 于是我给M</description>
     </item>
     
     <item>
       <title>土方法解决洋问题</title>
-      <link>https://diary.abel.red/post/%E5%9C%9F%E6%96%B9%E6%B3%95%E8%A7%A3%E5%86%B3%E6%B4%8B%E9%97%AE%E9%A2%98/</link>
+      <link>https://diary.abel.gg/post/%E5%9C%9F%E6%96%B9%E6%B3%95%E8%A7%A3%E5%86%B3%E6%B4%8B%E9%97%AE%E9%A2%98/</link>
       <pubDate>Sat, 04 Apr 2020 07:33:37 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/%E5%9C%9F%E6%96%B9%E6%B3%95%E8%A7%A3%E5%86%B3%E6%B4%8B%E9%97%AE%E9%A2%98/</guid>
+      <guid>https://diary.abel.gg/post/%E5%9C%9F%E6%96%B9%E6%B3%95%E8%A7%A3%E5%86%B3%E6%B4%8B%E9%97%AE%E9%A2%98/</guid>
       <description>滴答清单莫名其妙的稳定了好几天了。 最开始的时候，实际上是没有好的解决办法的，该试的方法都试过了，可是就是只能坚持一个昼夜，app就会崩溃，，</description>
     </item>
     
     <item>
       <title>关于Apple Watch</title>
-      <link>https://diary.abel.red/post/%E5%85%B3%E4%BA%8Eapple-watch/</link>
+      <link>https://diary.abel.gg/post/%E5%85%B3%E4%BA%8Eapple-watch/</link>
       <pubDate>Thu, 26 Mar 2020 10:50:45 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/%E5%85%B3%E4%BA%8Eapple-watch/</guid>
+      <guid>https://diary.abel.gg/post/%E5%85%B3%E4%BA%8Eapple-watch/</guid>
       <description>关于Apple watch：一直以来的缺憾和完美 Apple watch 功能 GTD系统 GTD系统，承接规划系统，从Trello出发，到Xmind，再到Omni，从</description>
     </item>
     
     <item>
       <title>GTD方案</title>
-      <link>https://diary.abel.red/post/gtd%E6%96%B9%E6%A1%88/</link>
+      <link>https://diary.abel.gg/post/gtd%E6%96%B9%E6%A1%88/</link>
       <pubDate>Thu, 26 Mar 2020 10:45:59 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/gtd%E6%96%B9%E6%A1%88/</guid>
+      <guid>https://diary.abel.gg/post/gtd%E6%96%B9%E6%A1%88/</guid>
       <description>日历方案 Calendars5 日历编辑模块无敌,跨平台同步未测试,提醒稳定性未测试 吸收任务友好度一般,不能转化提醒 非任务属性,不利于总结 系统日历 编辑性差,跨平台</description>
     </item>
     
     <item>
       <title>Typora</title>
-      <link>https://diary.abel.red/post/typora/</link>
+      <link>https://diary.abel.gg/post/typora/</link>
       <pubDate>Thu, 26 Mar 2020 10:44:35 +0800</pubDate>
       
-      <guid>https://diary.abel.red/post/typora/</guid>
+      <guid>https://diary.abel.gg/post/typora/</guid>
       <description>Typora对比幕布 项目 幕布 Typora 美观 🌟🌟🌟 🌟🌟🌟🌟🌟 效率 🌟🌟🌟🌟 🌟🌟🌟🌟🌟 管理 🌟🌟🌟🌟🌟 🌟🌟🌟🌟 思路 🌟🌟🌟🌟🌟 🌟🌟🌟🌟 总结 理性呈现 感性呈现 分析</description>
     </item>
     
